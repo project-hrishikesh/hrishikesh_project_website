@@ -46,7 +46,7 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
-<h3> 📰 Project Name </h3> <br>
+<h3> 📰 Project Name </h3> 
 IMDB rating analysis for Movie's & Web Serie's<br>
 <hr>
 <h3> 📰 Description </h3>
