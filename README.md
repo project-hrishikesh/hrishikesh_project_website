@@ -115,12 +115,6 @@ For better knowledge kindly click on the link below for the Project Presentation
 </div>
 
 
-<div align="right">
-<a>
-<h4> 🛡️ © project by HRISHIKESH ANAND </h4>
-</a>
-</div>
-
 </p>
 
 <br>
