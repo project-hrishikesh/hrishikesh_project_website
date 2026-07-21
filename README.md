@@ -103,7 +103,7 @@ Describe your ongoing project. <br>
 
 <p align="left">
 
-# © project by!  HRISHIKESH ANAND </h3> <br>
+# © project by!  HRISHIKESH ANAND <br>
 
 </p>
 
