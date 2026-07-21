@@ -50,8 +50,7 @@ Below mentioned are the active projects links and there presentation doccuments.
 IMDB rating analysis for Movie's & Web Serie's<br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on the IMDB rating data analysis between the year 2015 to 2025. This analysis represents the overall trends among the years. <br>
-For better knowledge regarding this project doccument presentation, kindly click on the link provided. <br>
+This project mainly focuses on the IMDB rating data analysis between the year 2015 to 2025. This analysis represents the overall trends among the years. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> Tech. skills used; </h3>
 - Excel
