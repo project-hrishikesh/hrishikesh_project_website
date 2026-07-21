@@ -79,8 +79,8 @@ Describe your ongoing project. <br>
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
-<h3> Project Name :- </h3> <br>
-TML Sales volume data analysis dashbord project.
+<h3> Project Name :- </h3> 
+TML Sales volume data analysis dashbord project. <br>
 <hr>
 <h3> Description :- </h3>
 This project mainly focuses on the monthly passenger vehicle sales volume data analysis. This project contains a dummy dataset with the same conditions of a realtime sales data.
