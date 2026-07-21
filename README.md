@@ -105,12 +105,14 @@ For better knowledge kindly click on the link below for the Project Presentation
 
 <p align="left">
 
-## © project by!  HRISHIKESH ANAND <br>
+Note on Data Source: <br>
+The insights, visualizations, and models presented in this portfolio project are built entirely on simulated corporate data. <br> 
+This approach demonstrates end-to-end data analysis workflows while fully protecting proprietary company information.
 
 </p>
 
 <p align="right">
 
-🛡️ Made with, dedication.... 
+<h4> © project by!  HRISHIKESH ANAND </h4> 
 
 </p>
