@@ -16,25 +16,9 @@
 
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 
-This portfolio contains my latest software development and data analytics projects.
-
-Here you can find:
-
-- 📊 Data Analytics Projects
-- 💻 Python Applications
-- 🗄 SQL Projects
-- 📈 Power BI Dashboards
-- 📄 Documentation
-- 🔄 Projects currently under development
-
-Every project contains:
-
-- Description
-- Features
-- Technologies Used
-- Source Code
-- Images
-- Documentation
+<h4> Welcom to my project directory website. </h4> <br>
+Within this doccumantory website, the main focus is to display a proper tracking of my working projects and there respective presentation doccuments.
+Below mentioned are the active projects links and there presentation doccuments.
 
 </div>
 
@@ -43,7 +27,7 @@ Every project contains:
 </table>
 
 ---
-<hr style="border:0;height:2px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 
 
@@ -57,7 +41,7 @@ Every project contains:
 
 <p align="center">
 
-<img src="images_002.jpg" width="350">
+<img src="images_002.jpg" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
@@ -91,7 +75,7 @@ Describe your ongoing project. <br>
 
 <p align="center">
 
-<img src="images/project_001.png" width="550">
+<img src="images/project_001.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
@@ -119,7 +103,7 @@ Describe your ongoing project. <br>
 
 <p align="left">
 
-© project by!  HRISHIKESH ANAND </h3> <br>
+# © project by!  HRISHIKESH ANAND </h3> <br>
 
 </p>
 
