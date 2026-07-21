@@ -46,14 +46,18 @@ Every project contains:
 <hr style="border:0;height:2px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 
-# 🚧 Current Project (In Progress) :-
 
-<div style="border:3px solid orange;border-radius:10px;padding:15px;">
+---
+<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
+
+# 📒 Second Project :-
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
 
 <p align="center">
 
-<img src="images_002.jpg" width="450">
+<img src="images_002.jpg" width="350">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
@@ -81,47 +85,13 @@ Describe your ongoing project. <br>
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 
-# 📒 Second Project :-
-
-<div style="border:2px solid green;border-radius:10px;padding:20px;">
-
-<p align="center">
-
-<img src="images_002.jpg" width="350">
-
-</p>
-<hr style="height:2px;border:none;background:#808080;">
-<h3> Project Name </h3> <br>
-<hr>
-<h3> Description </h3>
-Describe your ongoing project. <br>
-<hr>
-<h3> Tech. skills used; </h3>
-- Python
-- SQL
-- Git
-<hr style="height:2px;border:none;background:#808080;">
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Project-success?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
-</div>
-
----
-<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
-
-
 # 📒 First Project :-
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
 <p align="center">
 
-<img src="images_002.jpg" width="350">
+<img src="images/project_001.png" width="450">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
@@ -135,10 +105,10 @@ Describe your ongoing project. <br>
 - SQL
 - Git
 <hr style="height:2px;border:none;background:#808080;">
-<p align="center">
+<p align="right">
 
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Project-success?style=for-the-badge&logo=github">
+<a href="https://drive.google.com/file/d/1dqAbNtvbGlVpZA9C7tVVK1ONbYwQJF45/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
