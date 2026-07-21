@@ -42,23 +42,25 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 <p align="center">
 
-<img src="images_002.jpg" width="551">
+<img src="images/images_002.jpg" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> <br>
+IMDB rating analysis for Movie's & Web Serie's<br>
 <hr>
 <h3> 📰 Description </h3>
-Describe your ongoing project. <br>
+This project mainly focuses on the IMDB rating data analysis between the year 2015 to 2025. This analysis represents the overall trends among the years. <br>
+For better knowledge regarding this project doccument presentation, kindly click on the link provided. <br>
 <hr>
 <h3> Tech. skills used; </h3>
-- Python
-- SQL
-- Git
+- Excel
+- other
+- 
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
+<a href="https://drive.google.com/file/d/1P1F6j_fc5qinsuWy599s7sNYfkp7jmUx/view?usp=sharing">
 <img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
