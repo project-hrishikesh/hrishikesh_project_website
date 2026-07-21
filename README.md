@@ -79,15 +79,17 @@ Describe your ongoing project. <br>
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
-<h3> Project Name </h3> <br>
+<h3> Project Name :- </h3> <br>
+TML Sales volume data analysis dashbord project.
 <hr>
-<h3> Description </h3>
-Describe your ongoing project. <br>
+<h3> Description :- </h3>
+This project mainly focuses on the monthly passenger vehicle sales volume data analysis. This project contains a dummy dataset with the same conditions of a realtime sales data.
+For better knowledge kindly click on the link below for the Project Presentation.....<br>
 <hr>
 <h3> Tech. skills used; </h3>
-- Python
-- SQL
-- Git
+- Excel 
+- other
+- 
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
@@ -103,7 +105,7 @@ Describe your ongoing project. <br>
 
 <p align="left">
 
-# © project by!  HRISHIKESH ANAND <br>
+## © project by!  HRISHIKESH ANAND <br>
 
 </p>
 
