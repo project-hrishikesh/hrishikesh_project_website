@@ -11,7 +11,7 @@
 <tr>
 <td>
 
-<h2> 📌 About This Site </h2>
+<h2> 📓 About This Site </h2>
 
 
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
@@ -35,7 +35,8 @@ Below mentioned are the active projects links and there presentation doccuments.
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 
-# 📒 Second Project :-  [current updated project]
+# 📒 Second Project :-  <br>
+# [current updated project]
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -45,9 +46,9 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
-<h3> Project Name </h3> <br>
+<h3> 📰 Project Name </h3> <br>
 <hr>
-<h3> Description </h3>
+<h3> 📰 Description </h3>
 Describe your ongoing project. <br>
 <hr>
 <h3> Tech. skills used; </h3>
@@ -79,10 +80,10 @@ Describe your ongoing project. <br>
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
-<h3> Project Name :- </h3> 
+<h3> 📰 Project Name :- </h3> 
 TML Sales volume data analysis dashbord project. <br>
 <hr>
-<h3> Description :- </h3>
+<h3> 📰 Description :- </h3>
 This project mainly focuses on the monthly passenger vehicle sales volume data analysis. This project contains a dummy dataset with the same conditions of a realtime sales data.
 For better knowledge kindly click on the link below for the Project Presentation.....<br>
 <hr>
