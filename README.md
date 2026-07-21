@@ -103,6 +103,7 @@ For better knowledge kindly click on the link below for the Project Presentation
 </div>
 
 ---
+<hr>
 
 <p align="left">
 
@@ -114,6 +115,8 @@ This approach demonstrates end-to-end data analysis workflows while fully protec
 
 <p align="right">
 
-<h4> © project by!  HRISHIKESH ANAND </h4> 
+## © project by!  HRISHIKESH ANAND 
 
 </p>
+
+<hr>
