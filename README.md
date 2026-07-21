@@ -42,7 +42,7 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 <p align="center">
 
-<img src="images/images_002.jpg" width="551">
+<img src="images/project_002.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
