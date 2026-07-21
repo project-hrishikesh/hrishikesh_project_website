@@ -91,7 +91,7 @@ Describe your ongoing project. <br>
 
 <p align="center">
 
-<img src="images/project_001.png" width="450">
+<img src="images/project_001.png" width="550">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
@@ -119,7 +119,7 @@ Describe your ongoing project. <br>
 
 <p align="left">
 
-<h3> project. © HRISHIKESH ANAND </h3> <br>
+© project by!  HRISHIKESH ANAND </h3> <br>
 
 </p>
 
