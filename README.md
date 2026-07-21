@@ -35,7 +35,7 @@ Below mentioned are the active projects links and there presentation doccuments.
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 
-# 📒 Second Project :-
+# 📒 Second Project :-  [current updated project]
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
