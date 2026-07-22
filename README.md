@@ -30,13 +30,47 @@ Below mentioned are the active projects links and there presentation doccuments.
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 
+---
+<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
+
+# 📒 Third Project :-  <br>
+# [current updated project]
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
+
+<p align="center">
+
+<img src="images/project_003.png" width="551">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> 📰 Project Name </h3> 
+SALE's DATA ANALYSIS PROJECT. <br>
+<hr>
+<h3> 📰 Description </h3>
+This project mainly focuses on analysis of the sales data for an electronic store. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+<hr>
+<h3> Tech. skills used; </h3>
+- Excel
+- other
+- 
+<hr style="height:2px;border:none;background:#808080;">
+<p align="right">
+
+<a href="https://drive.google.com/file/d/1WIxPK4BKoxJApBTSbOdRq8jOCTjZ5LlS/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
 
 ---
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 
 # 📒 Second Project :-  <br>
-# [current updated project]
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -47,7 +81,7 @@ Below mentioned are the active projects links and there presentation doccuments.
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-IMDB rating analysis for Movie's & Web Serie's<br>
+IMDB RATING ANALYSIS FOR MOVIE's & WEB SERIE's. <br>
 <hr>
 <h3> 📰 Description </h3>
 This project mainly focuses on the IMDB rating data analysis between the year 2015 to 2025. This analysis represents the overall trends among the years. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
@@ -82,7 +116,7 @@ This project mainly focuses on the IMDB rating data analysis between the year 20
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name :- </h3> 
-TML Sales volume data analysis dashbord project. <br>
+TML SALES VOLUME DATA ANALYSIS PROJECT. <br>
 <hr>
 <h3> 📰 Description :- </h3>
 This project mainly focuses on the monthly passenger vehicle sales volume data analysis. This project contains a dummy dataset with the same conditions of a realtime sales data.
