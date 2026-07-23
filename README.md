@@ -29,6 +29,7 @@ Below mentioned are the active projects links and there presentation doccuments.
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
+
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
@@ -44,13 +45,14 @@ Below mentioned are the active projects links and there presentation doccuments.
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-SALE's DATA ANALYSIS PROJECT. <br>
+STARBUCKS BEVERAGES TRENDS ANALYSIS PROJECT. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the sales data for an electronic store. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the trending beverages according to there nutritional insights. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> Tech. skills used; </h3>
-- Excel
+- Excel (for data analysis)
+- Power Bi (for dashboarding)
 - other
 - 
 <hr style="height:2px;border:none;background:#808080;">
@@ -79,15 +81,16 @@ This project mainly focuses on analysis of the sales data for an electronic stor
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-SALE's DATA ANALYSIS PROJECT. <br>
+STARBUCKS BEVERAGES TRENDS ANALYSIS PROJECT. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the sales data for an electronic store. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the trending beverages according to there nutritional insights. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> Tech. skills used; </h3>
-- Excel
+- Excel (for data analysis)
+- Power Bi (for dashboarding)
 - other
-- 
+-
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
