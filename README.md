@@ -40,17 +40,18 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 <p align="center">
 
-<img src="images/project_004.png" width="551">
+<img src="images/project_005.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-STARBUCKS BEVERAGES TRENDS ANALYSIS PROJECT. <br>
+UBER RIDES DATA ANALYSIS PROJECT. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the trending beverages according to there nutritional insights. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the performance aspect of the rides and the riders response. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> Tech. skills used; </h3>
+- Python (for analysis of data structure)
 - Excel (for data analysis)
 - Power Bi (for dashboarding)
 - other
@@ -58,7 +59,7 @@ This project mainly focuses on analysis of the trending beverages according to t
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
-<a href="https://drive.google.com/file/d/1dlK-Frj_KIli1pPU4iorVZBAj1XdTdcZ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1sB3xYCm4NcqZeCGJ6cVtV27ZyQeuCjy2/view?usp=sharing">
 <img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -96,6 +97,44 @@ This project mainly focuses on analysis of the trending beverages according to t
 <p align="right">
 
 <a href="https://drive.google.com/file/d/1dlK-Frj_KIli1pPU4iorVZBAj1XdTdcZ/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+---
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+---
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+
+# 📒 Fifth Project :-  <br>
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
+
+<p align="center">
+
+<img src="images/project_0005.png" width="551">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> 📰 Project Name </h3> 
+UBER RIDES DATA ANALYSIS PROJECT. <br>
+<hr>
+<h3> 📰 Description </h3>
+This project mainly focuses on analysis of the performance aspect of the rides and the riders response. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+<hr>
+<h3> Tech. skills used; </h3>
+- Python (for analysis of data structure)
+- Excel (for data analysis)
+- Power Bi (for dashboarding)
+- other
+-
+<hr style="height:2px;border:none;background:#808080;">
+<p align="right">
+
+<a href="https://drive.google.com/file/d/1sB3xYCm4NcqZeCGJ6cVtV27ZyQeuCjy2/view?usp=sharing">
 <img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
