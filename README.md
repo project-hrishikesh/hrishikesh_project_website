@@ -115,7 +115,7 @@ This project mainly focuses on analysis of the trending beverages according to t
 
 <p align="center">
 
-<img src="images/project_0005.png" width="551">
+<img src="images/project_005.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
