@@ -144,15 +144,13 @@ This project mainly focuses on analysis of the trending beverages according to t
 </div>
 
 ---
-<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&color=0:00F5A0,100:2563EB&animation=fadeIn" width="95%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:00F5A0,100:2563EB&animation=fadeIn" width="95%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&color=0:00F5A0,100:2563EB&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:00F5A0,100:2563EB&animation=fadeIn" width="100%"/>
 </p>
 
 ---
-<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 # 📒 Sixth Project :-  <br>
 
