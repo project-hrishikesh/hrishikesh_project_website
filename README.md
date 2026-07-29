@@ -16,7 +16,7 @@
 
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 
-<h4> Welcom to my project directory website. </h4> <br>
+<h3> Welcom to my project directory website. </h3> <br>
 Within this doccumantory website, the main focus is to display a proper tracking of my working projects and there respective presentation doccuments.
 Below mentioned are the active projects links and there presentation doccuments.
 
@@ -48,19 +48,19 @@ Below mentioned are the active projects links and there presentation doccuments.
 PHONEPE PAYMENTS ANALYSIS PROJECT. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the payment aspect insights of the phonepe app. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the users payments, to prepare meaningful insights of the phonepe app. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
-<h3> Tech. skills used; </h3>
-- Python (for analysis of data structure)
-- Excel (for data analysis)
-- Figma (dashboard design)
-- Power Bi (for dashboarding)
+<h3> ⚙️ Tech. skills used; </h3>
+- Python (for analysis of data structure) <br>
+- Excel (for data analysis) <br>
+- Figma (dashboard design) <br>
+- Power Bi (prepare insight dashboards) <br>
 - other
 - 
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
-<a href="https://drive.google.com/file/d/1sB3xYCm4NcqZeCGJ6cVtV27ZyQeuCjy2/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1MpwzvB7m_cp56l-sKoB4eo475C4ddvXR/view?usp=sharing">
 <img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -89,10 +89,11 @@ UBER RIDES DATA ANALYSIS PROJECT. <br>
 <h3> 📰 Description </h3>
 This project mainly focuses on analysis of the performance aspect of the rides and the riders response. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
-<h3> Tech. skills used; </h3>
-- Python (for analysis of data structure)
-- Excel (for data analysis)
-- Power Bi (for dashboarding)
+<h3> ⚙️ Tech. skills used; </h3>
+- Python (for analysis of data structure) <br>
+- Excel (for data analysis) <br>
+- Figma (dashboard designing) <br>
+- Power Bi (prepare insight dashboards) <br>
 - other
 - 
 <hr style="height:2px;border:none;background:#808080;">
@@ -105,7 +106,6 @@ This project mainly focuses on analysis of the performance aspect of the rides a
 </p>
 
 </div>
-
 
 
 ---
@@ -127,10 +127,10 @@ STARBUCKS BEVERAGES TRENDS ANALYSIS PROJECT. <br>
 <h3> 📰 Description </h3>
 This project mainly focuses on analysis of the trending beverages according to there nutritional insights. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
-<h3> Tech. skills used; </h3>
-- Excel (for data analysis)
-- Power Bi (for dashboarding)
-- other
+<h3> ⚙️ Tech. skills used; </h3>
+- Excel (for data analysis) <br>
+- Power Bi (prepare insight dashboards) <br>
+- other 
 - 
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
@@ -145,6 +145,44 @@ This project mainly focuses on analysis of the trending beverages according to t
 
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+
+---
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+
+# 📒 Sixth Project :-  <br>
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
+
+<p align="center">
+
+<img src="images/project_006.png" width="551">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> 📰 Project Name </h3> 
+PHONEPE PAYMENTS ANALYSIS PROJECT. <br>
+<hr>
+<h3> 📰 Description </h3>
+This project mainly focuses on analysis of the users payments, to prepare meaningful insights of the phonepe app. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+<hr>
+<h3> ⚙️ Tech. skills used; </h3>
+- Python (for analysis of data structure) <br>
+- Excel (for data analysis) <br>
+- Power Bi (for dashboarding) <br>
+- other
+-
+<hr style="height:2px;border:none;background:#808080;">
+<p align="right">
+
+<a href="https://drive.google.com/file/d/1MpwzvB7m_cp56l-sKoB4eo475C4ddvXR/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
@@ -164,10 +202,10 @@ UBER RIDES DATA ANALYSIS PROJECT. <br>
 <h3> 📰 Description </h3>
 This project mainly focuses on analysis of the performance aspect of the rides and the riders response. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
-<h3> Tech. skills used; </h3>
-- Python (for analysis of data structure)
-- Excel (for data analysis)
-- Power Bi (for dashboarding)
+<h3> ⚙️ Tech. skills used; </h3>
+- Python (for analysis of data structure) <br>
+- Excel (for data analysis) <br>
+- Power Bi (for dashboarding) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
@@ -201,9 +239,9 @@ STARBUCKS BEVERAGES TRENDS ANALYSIS PROJECT. <br>
 <h3> 📰 Description </h3>
 This project mainly focuses on analysis of the trending beverages according to there nutritional insights. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
-<h3> Tech. skills used; </h3>
-- Excel (for data analysis)
-- Power Bi (for dashboarding)
+<h3> ⚙️ Tech. skills used; </h3>
+- Excel (for data analysis) <br>
+- Power Bi (for dashboarding) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
@@ -222,7 +260,6 @@ This project mainly focuses on analysis of the trending beverages according to t
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 # 📒 Third Project :-  <br>
-# [current updated project]
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -238,7 +275,7 @@ SALE's DATA ANALYSIS PROJECT. <br>
 <h3> 📰 Description </h3>
 This project mainly focuses on analysis of the sales data for an electronic store. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
-<h3> Tech. skills used; </h3>
+<h3> ⚙️ Tech. skills used; </h3>
 - Excel
 - other
 - 
@@ -274,7 +311,7 @@ IMDB RATING ANALYSIS FOR MOVIE's & WEB SERIE's. <br>
 <h3> 📰 Description </h3>
 This project mainly focuses on the IMDB rating data analysis between the year 2015 to 2025. This analysis represents the overall trends among the years. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
-<h3> Tech. skills used; </h3>
+<h3> ⚙️ Tech. skills used; </h3>
 - Excel
 - other
 - 
@@ -310,7 +347,7 @@ TML SALES VOLUME DATA ANALYSIS PROJECT. <br>
 This project mainly focuses on the monthly passenger vehicle sales volume data analysis. This project contains a dummy dataset with the same conditions of a realtime sales data.
 For better knowledge kindly click on the link below for the Project Presentation.....<br>
 <hr>
-<h3> Tech. skills used; </h3>
+<h3> ⚙️ Tech. skills used; </h3>
 - Excel 
 - other
 - 
