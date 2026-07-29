@@ -40,6 +40,45 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 <p align="center">
 
+<img src="images/project_006.png" width="551">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> 📰 Project Name </h3> 
+PHONEPE PAYMENTS ANALYSIS PROJECT. <br>
+<hr>
+<h3> 📰 Description </h3>
+This project mainly focuses on analysis of the payment aspect insights of the phonepe app. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+<hr>
+<h3> Tech. skills used; </h3>
+- Python (for analysis of data structure)
+- Excel (for data analysis)
+- Figma (dashboard design)
+- Power Bi (for dashboarding)
+- other
+- 
+<hr style="height:2px;border:none;background:#808080;">
+<p align="right">
+
+<a href="https://drive.google.com/file/d/1sB3xYCm4NcqZeCGJ6cVtV27ZyQeuCjy2/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+
+
+---
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+
+# 📍 Pin Project :-  <br>
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
+
+<p align="center">
+
 <img src="images/project_005.png" width="551">
 
 </p>
