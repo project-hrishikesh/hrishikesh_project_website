@@ -40,15 +40,15 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 <p align="center">
 
-<img src="images/project_001.png" width="551">
+<img src="images/loading.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-PHONEPE PAYMENTS ANALYSIS PROJECT. <br>
+FINANCIAL ANALYSIS INSIGHTS DASHBOARD PROJECT. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the users payments, to prepare meaningful insights of the phonepe app. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the monthly financial report, to analyze the monthly growth change and prepare an actionable insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> ⚙️ Tech. skills used; </h3>
 - Python (for analysis of data structure) <br>
@@ -60,7 +60,7 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
-<a href="https://drive.google.com/file/d/1MpwzvB7m_cp56l-sKoB4eo475C4ddvXR/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Qxs1m1oqKDgwpWRZgFG8KqUF6RPNpgUM/view?usp=sharing">
 <img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -156,32 +156,33 @@ This project mainly focuses on analysis of the performance aspect of the rides a
 
 ---
 
-# 📒 "7" Seventh Project :-  <br>
+# 📒 "7"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
 <p align="center">
 
-<img src="images/project_001.png" width="551">
+<img src="images/loading.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-PHONEPE PAYMENTS ANALYSIS PROJECT. <br>
+FINANCIAL ANALYSIS INSIGHTS DASHBOARD PROJECT. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the users payments, to prepare meaningful insights of the phonepe app. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the monthly financial report, to analyze the monthly growth change and prepare an actionable insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> ⚙️ Tech. skills used; </h3>
 - Python (for analysis of data structure) <br>
 - Excel (for data analysis) <br>
-- Power Bi (for dashboarding) <br>
+- Figma (dashboard designing) <br>
+- Power Bi (prepare insight dashboards) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
-<a href="https://drive.google.com/file/d/1MpwzvB7m_cp56l-sKoB4eo475C4ddvXR/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Qxs1m1oqKDgwpWRZgFG8KqUF6RPNpgUM/view?usp=sharing">
 <img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -196,7 +197,7 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 
-# 📒 "6" Sixth Project :-  <br>
+# 📒 "6"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -215,7 +216,8 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 <h3> ⚙️ Tech. skills used; </h3>
 - Python (for analysis of data structure) <br>
 - Excel (for data analysis) <br>
-- Power Bi (for dashboarding) <br>
+- Figma (dashboard designing) <br>
+- Power Bi (prepare insight dashboards) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
@@ -233,7 +235,7 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
-# 📒 "5" Fifth Project :-  <br>
+# 📒 "5"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -252,7 +254,8 @@ This project mainly focuses on analysis of the performance aspect of the rides a
 <h3> ⚙️ Tech. skills used; </h3>
 - Python (for analysis of data structure) <br>
 - Excel (for data analysis) <br>
-- Power Bi (for dashboarding) <br>
+- Figma (dashboard designing) <br>
+- Power Bi (prepare insight dashboards) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
@@ -270,7 +273,7 @@ This project mainly focuses on analysis of the performance aspect of the rides a
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
-# 📒 "4" Fourth Project :-  <br>
+# 📒 "4"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -306,7 +309,7 @@ This project mainly focuses on analysis of the trending beverages according to t
 ---
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
-# 📒 "3" Third Project :-  <br>
+# 📒 "3"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -342,7 +345,7 @@ This project mainly focuses on analysis of the sales data for an electronic stor
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 
-# 📒 "2" Second Project :-  <br>
+# 📒 "2"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -377,7 +380,7 @@ This project mainly focuses on the IMDB rating data analysis between the year 20
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 
-# 📒 "1" First Project :-
+# 📒 "1"  Project :-
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
