@@ -40,7 +40,7 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 <p align="center">
 
-<img src="images/loading.png" width="551">
+<img src="images/project_007.jpg" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
@@ -162,7 +162,7 @@ This project mainly focuses on analysis of the performance aspect of the rides a
 
 <p align="center">
 
-<img src="images/loading.png" width="551">
+<img src="images/project_007.jpg" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
