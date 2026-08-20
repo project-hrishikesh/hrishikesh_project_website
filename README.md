@@ -29,12 +29,50 @@ Below mentioned are the active projects links and there presentation doccuments.
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
-
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 # 📍 Pin Project :-  <br>
 # [current updated project]
+
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
+
+<p align="center">
+
+<img src="images/project_008.png" width="551">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> 📰 Project Name </h3> 
+UBER RIDES DATA ANALYSIS PROJECT. <br>
+<hr>
+<h3> 📰 Description </h3>
+This project mainly focuses on analysis of the performance aspect of the rides and the riders response. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+<hr>
+<h3> ⚙️ Tech. skills used; </h3>
+- Python (for analysis of data structure) <br>
+- Excel (for data analysis) <br>
+- Figma (dashboard designing) <br>
+- Power Bi (prepare insight dashboards) <br>
+- other
+- 
+<hr style="height:2px;border:none;background:#808080;">
+<p align="right">
+
+<a href="https://drive.google.com/file/d/1LKo-QJOzHL1wy6sfNw78YGYVJ0s8B5iq/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+
+---
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+
+# 📍 Pin Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -110,39 +148,6 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
-# 📍 Pin Project :-  <br>
-
-<div style="border:2px solid green;border-radius:10px;padding:20px;">
-
-<p align="center">
-
-<img src="images/project_005.png" width="551">
-
-</p>
-<hr style="height:2px;border:none;background:#808080;">
-<h3> 📰 Project Name </h3> 
-UBER RIDES DATA ANALYSIS PROJECT. <br>
-<hr>
-<h3> 📰 Description </h3>
-This project mainly focuses on analysis of the performance aspect of the rides and the riders response. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
-<hr>
-<h3> ⚙️ Tech. skills used; </h3>
-- Python (for analysis of data structure) <br>
-- Excel (for data analysis) <br>
-- Figma (dashboard designing) <br>
-- Power Bi (prepare insight dashboards) <br>
-- other
-- 
-<hr style="height:2px;border:none;background:#808080;">
-<p align="right">
-
-<a href="https://drive.google.com/file/d/1sB3xYCm4NcqZeCGJ6cVtV27ZyQeuCjy2/view?usp=sharing">
-<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
-</div>
 
 
 ---
@@ -155,6 +160,44 @@ This project mainly focuses on analysis of the performance aspect of the rides a
 </p>
 
 ---
+# 📒 "8"  Project :-  <br>
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
+
+<p align="center">
+
+<img src="images/project_008.png" width="551">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> 📰 Project Name </h3> 
+FINANCIAL ANALYSIS INSIGHTS DASHBOARD PROJECT. <br>
+<hr>
+<h3> 📰 Description </h3>
+This project mainly focuses on analysis of the monthly financial report, to analyze the monthly growth change and prepare an actionable insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+<hr>
+<h3> ⚙️ Tech. skills used; </h3>
+- Python (for analysis of data structure) <br>
+- Excel (for data analysis) <br>
+- Figma (dashboard designing) <br>
+- Power Bi (prepare insight dashboards) <br>
+- other
+-
+<hr style="height:2px;border:none;background:#808080;">
+<p align="right">
+
+<a href="https://drive.google.com/file/d/1LKo-QJOzHL1wy6sfNw78YGYVJ0s8B5iq/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+
+---
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+
 
 # 📒 "7"  Project :-  <br>
 
