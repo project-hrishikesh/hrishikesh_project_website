@@ -33,7 +33,6 @@ Below mentioned are the active projects links and there presentation doccuments.
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 # 📍 Pin Project :-  <br>
-# [current updated project]
 
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
