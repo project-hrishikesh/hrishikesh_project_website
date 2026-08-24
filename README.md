@@ -54,6 +54,7 @@ This project mainly focuses on analysis of the detailed task tracking report, to
 - Excel (for data analysis) <br>
 - Figma (dashboard designing) <br>
 - Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
 - other
 - 
 <hr style="height:2px;border:none;background:#808080;">
@@ -82,7 +83,7 @@ This project mainly focuses on analysis of the detailed task tracking report, to
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-HONDA SALES DATA ANALYSIS INSIGHTS DASHBOARD PROJECT. <br>
+HONDA SALES DATA ANALYSIS DASHBOARD. <br>
 <hr>
 <h3> 📰 Description </h3>
 This project mainly focuses on analysis of the monthly sales report, to analyze the monthly changes in the company sales through this insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
@@ -92,6 +93,7 @@ This project mainly focuses on analysis of the monthly sales report, to analyze 
 - Excel (for data analysis) <br>
 - Figma (dashboard design) <br>
 - Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
 - other
 - 
 <hr style="height:2px;border:none;background:#808080;">
@@ -130,6 +132,7 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 - Excel (for data analysis) <br>
 - Figma (dashboard design) <br>
 - Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
 - other
 - 
 <hr style="height:2px;border:none;background:#808080;">
@@ -159,6 +162,45 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 </p>
 
 ---
+# 📒 "9"  Project :-  <br>
+
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
+
+<p align="center">
+
+<img src="images/project_009.png" width="551">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> 📰 Project Name </h3> 
+HONDA SALES DATA ANALYSIS DASHBOARD. <br>
+<hr>
+<h3> 📰 Description </h3>
+This project mainly focuses on analysis of the monthly sales report, to analyze the monthly changes in the company sales through this insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+<hr>
+<h3> ⚙️ Tech. skills used; </h3>
+- Python (for analysis of data structure) <br>
+- Excel (for data analysis) <br>
+- Figma (dashboard designing) <br>
+- Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
+- other
+-
+<hr style="height:2px;border:none;background:#808080;">
+<p align="right">
+
+<a href="https://drive.google.com/file/d/1_oPmIhpoT8LfMu2kso1U1a2IymRP1SAy/view?usp=sharing">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+
+---
+<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
+
 # 📒 "8"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
@@ -180,6 +222,7 @@ This project mainly focuses on analysis of the detailed task tracking report, to
 - Excel (for data analysis) <br>
 - Figma (dashboard designing) <br>
 - Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
@@ -219,6 +262,7 @@ This project mainly focuses on analysis of the monthly financial report, to anal
 - Excel (for data analysis) <br>
 - Figma (dashboard designing) <br>
 - Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
@@ -260,6 +304,7 @@ This project mainly focuses on analysis of the users payments, to prepare meanin
 - Excel (for data analysis) <br>
 - Figma (dashboard designing) <br>
 - Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
@@ -298,6 +343,7 @@ This project mainly focuses on analysis of the performance aspect of the rides a
 - Excel (for data analysis) <br>
 - Figma (dashboard designing) <br>
 - Power Bi (prepare insight dashboards) <br>
+- DAX (formulas and functions) <br>
 - other
 -
 <hr style="height:2px;border:none;background:#808080;">
