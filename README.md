@@ -77,15 +77,15 @@ This project mainly focuses on analysis of the detailed task tracking report, to
 
 <p align="center">
 
-<img src="images/project_007.jpg" width="551">
+<img src="images/project_009.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-FINANCIAL ANALYSIS INSIGHTS DASHBOARD PROJECT. <br>
+HONDA SALES DATA ANALYSIS INSIGHTS DASHBOARD PROJECT. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the monthly financial report, to analyze the monthly growth change and prepare an actionable insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the monthly sales report, to analyze the monthly changes in the company sales through this insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> ⚙️ Tech. skills used; </h3>
 - Python (for analysis of data structure) <br>
