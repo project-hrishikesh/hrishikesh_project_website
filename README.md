@@ -32,47 +32,19 @@ Below mentioned are the active projects links and there presentation doccuments.
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
-# 📍 Pin Project :-  <br>
-
-
-<div style="border:2px solid green;border-radius:10px;padding:20px;">
-
-<p align="center">
-
-<img src="images/project_008.png" width="551">
-
-</p>
-<hr style="height:2px;border:none;background:#808080;">
-<h3> 📰 Project Name </h3> 
-TASK MANAGEMENT ANALYSIS PROJECT DASHBOARD. <br>
-<hr>
-<h3> 📰 Description </h3>
-This project mainly focuses on analysis of the detailed task tracking report, to visualize the current task progress insights. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
-<hr>
-<h3> ⚙️ Tech. skills used; </h3>
-- Python (for analysis of data structure) <br>
-- Excel (for data analysis) <br>
-- Figma (dashboard designing) <br>
-- Power Bi (prepare insight dashboards) <br>
-- DAX (formulas and functions) <br>
-- other
-- 
-<hr style="height:2px;border:none;background:#808080;">
-<p align="right">
-
-<a href="https://drive.google.com/file/d/1LKo-QJOzHL1wy6sfNw78YGYVJ0s8B5iq/view?usp=sharing">
-<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
-</div>
-
 
 ---
-<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
-# 📍 Pin Project :-  <br>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&color=0:00F5A0,100:2563EB&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:00F5A0,100:2563EB&animation=fadeIn" width="100%"/>
+</p>
+
+---
+---
+# 📒 "10"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -91,11 +63,11 @@ This project mainly focuses on analysis of the monthly sales report, to analyze 
 <h3> ⚙️ Tech. skills used; </h3>
 - Python (for analysis of data structure) <br>
 - Excel (for data analysis) <br>
-- Figma (dashboard design) <br>
+- Figma (dashboard designing) <br>
 - Power Bi (prepare insight dashboards) <br>
 - DAX (formulas and functions) <br>
 - other
-- 
+-
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
@@ -111,57 +83,6 @@ This project mainly focuses on analysis of the monthly sales report, to analyze 
 ---
 <hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
-# 📍 Pin Project :-  <br>
-
-<div style="border:2px solid green;border-radius:10px;padding:20px;">
-
-<p align="center">
-
-<img src="images/project_006.png" width="551">
-
-</p>
-<hr style="height:2px;border:none;background:#808080;">
-<h3> 📰 Project Name </h3> 
-PHONEPE PAYMENTS ANALYSIS PROJECT. <br>
-<hr>
-<h3> 📰 Description </h3>
-This project mainly focuses on analysis of the users payments, to prepare meaningful insights of the phonepe app. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
-<hr>
-<h3> ⚙️ Tech. skills used; </h3>
-- Python (for analysis of data structure) <br>
-- Excel (for data analysis) <br>
-- Figma (dashboard design) <br>
-- Power Bi (prepare insight dashboards) <br>
-- DAX (formulas and functions) <br>
-- other
-- 
-<hr style="height:2px;border:none;background:#808080;">
-<p align="right">
-
-<a href="https://drive.google.com/file/d/1MpwzvB7m_cp56l-sKoB4eo475C4ddvXR/view?usp=sharing">
-<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
-</div>
-
-
----
-<hr style="border:0;height:5px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
-
-
-
----
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&color=0:00F5A0,100:2563EB&animation=fadeIn" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=0:00F5A0,100:2563EB&animation=fadeIn" width="100%"/>
-</p>
-
----
 # 📒 "9"  Project :-  <br>
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
