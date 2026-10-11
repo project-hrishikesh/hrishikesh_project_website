@@ -50,15 +50,15 @@ Below mentioned are the active projects links and there presentation doccuments.
 
 <p align="center">
 
-<img src="images/project_009.png" width="551">
+<img src="images/project_010.png" width="551">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> 📰 Project Name </h3> 
-HONDA SALES DATA ANALYSIS DASHBOARD. <br>
+IRCTC DATA ANALYSIS DASHBOARD. <br>
 <hr>
 <h3> 📰 Description </h3>
-This project mainly focuses on analysis of the monthly sales report, to analyze the monthly changes in the company sales through this insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
+This project mainly focuses on analysis of the trains booking and other data report, to analyze the flactuation through this insights dashboard. For better knowledge regarding this project doccument presentation, kindly click on the link provided.... <br>
 <hr>
 <h3> ⚙️ Tech. skills used; </h3>
 - Python (for analysis of data structure) <br>
@@ -71,7 +71,7 @@ This project mainly focuses on analysis of the monthly sales report, to analyze 
 <hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
-<a href="https://drive.google.com/file/d/1_oPmIhpoT8LfMu2kso1U1a2IymRP1SAy/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Cyq-IoDuTYPlblT4KoQKoB6AezRVwvKT/view?usp=sharing">
 <img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
